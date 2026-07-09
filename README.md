@@ -1,5 +1,7 @@
 # 💫 About Me:
-I ' m currently working on MERN STACK <br>
+Full-stack developer with hands-on experience building and shipping production-grade MERN applications, including authentication,
+payments, REST APIs, and role-based access systems. Strong problem-solving foundation with 600+ DSA problems solved on
+LeetCode. Seeking a full-stack developer role to build and scale reliable, user-facing products. <br>
 
 
 ## 🌐 Socials:
